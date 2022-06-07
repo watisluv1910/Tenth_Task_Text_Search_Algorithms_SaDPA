@@ -23,9 +23,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="trie_vertex_struct.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
     <ClInclude Include="trie_class.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
